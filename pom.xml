@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>keyshare-noti</artifactId>
+	<artifactId>jinubb-notification-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>keyshare-noti</name>
-	<description>Ainet-I notification API server</description>
+	<name>jinubb-notification-service</name>
+	<description>FCM broadcast API server</description>
 
 	<properties>
         <java.version>1.8</java.version>
